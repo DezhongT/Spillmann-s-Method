@@ -1,0 +1,6 @@
+nohup ./simDER option.txt -- friction 0.00
+nohup ./simDER option.txt -- friction 0.20
+nohup ./simDER option.txt -- friction 0.40
+nohup ./simDER option.txt -- friction 0.60
+nohup ./simDER option.txt -- friction 0.80
+nohup ./simDER option.txt -- friction 1.00
