@@ -16,7 +16,7 @@ Simulating Physical process:
 Holding two ends of a overhand knots to keep static for a while, then pulling two ends away slowly. During this process, the configurations and relatinonship between forces and shortening will be recoreded.
 
  Details on the options (we use SI units): 
-    "RodLength" is the length of a rod for tying the overhand knot.
+    "RodLength" is the length of a rod for tying the overhand knot. \n
     "rodRadius" is the cross-sectional radius of the rod.
     "youngM" is the young's modulus.
     "Poisson" is the Poisson ratio.
