@@ -1,0 +1,5 @@
+nohup ./simDER option.txt -- rodRadius 0.0021
+nohup ./simDER option.txt -- rodRadius 0.0022
+nohup ./simDER option.txt -- rodRadius 0.0023
+nohup ./simDER option.txt -- rodRadius 0.0024
+nohup ./simDER option.txt -- rodRadius 0.0025
